@@ -1,8 +1,3 @@
-# CS 411 - Assignment 5
-# Iterative Deepening Depth First Search on 15 Puzzle
-# Kristi Gjoni
-# 2018 Fall
-
 import sys
 import psutil
 import random
